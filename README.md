@@ -6,4 +6,3 @@ It also has pgx for Postgres and Docker and other tools like Docker are easy to 
 
 
 
-# Go-HTMX-Templ-boilerplate
